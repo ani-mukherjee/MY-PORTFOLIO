@@ -1,0 +1,78 @@
+  *{ 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+  .myname{ 
+    color: black;
+    padding: 10px;
+    margin-top: 70px;
+    margin-left: 20px;
+    border: 5px;
+    font-size: x-large;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+  .cv{
+    color: #2a0998;
+    font-size: x-large;
+    border-radius: 8px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 20px;
+    border: 5px;
+   
+ }
+  .cv:hover{background-color: greenyellow;}
+  .bio{ 
+    color:black;
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 20px;
+    border: 5px;
+    font-size: x-large;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+  .free{
+    color: black;
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 20px;
+    border: 5px;
+    font-size: x-large;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+  
+ }
+  .hr{ color: #2a0998;
+    font-size: x-large;
+    border-radius: 8px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 20px;
+    border: 5px;
+    
+ }
+  .hr:hover{background-color: greenyellow;}
+  .skills{
+    color: black;
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 20px;
+    border: 5px;
+    font-size: x-large;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  .pic{
+    width: 500px;
+    float: right;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    height: 650px;
+    border-radius: 50%;
+    
+}
+.offcanvas-title{
+   margin-left: 7px;
+}
